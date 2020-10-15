@@ -23,3 +23,13 @@ The project aims to bring DAO’s ease of use to local and online communities th
 - Each community has a __“scarcity score”__ - based on the *“variety coefficient”* of the skillset available internally. This will automatically send a __“signal”__ to the closest community when they have excess/lack of one specific skill. 
 
 - Close-communities are indexed per *skill-proximity* based on our __DiTo SubGraph__, and they can scale together by sharing the skills more needed to realize a project or a task, following a “one-step random walk” model.
+
+
+# How we are building it
+- Textile ThreadDB
+- Magic Link
+- Solidity + ERC20
+- TheGraph
+- AAVE
+- USDC V.2
+- others
