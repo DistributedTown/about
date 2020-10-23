@@ -2,7 +2,7 @@
 Distributed Town (DiTo) is a Network for DAOs, to let anyone create and launch self-sovereign organizations - based on an immutable, non-speculative mutual credit system, and a universal-logic based on Skills, rather than personal data.
 
 # Video Demo
-https://www.youtube.com/watch?v=g9wtuqPFKIQ
+https://www.youtube.com/watch?v=yh7oiAbGNck
 
 # Vision 
 Distributed Town aims to build a new financial ecosystem, supported by self-sustainable (and self-sovereign) community-hubs, with self-sovereign, pseudonymous identity management. For members to exchange skills with each other - safely, and without speculation - and collectively build the future of Collaborative Economics.
