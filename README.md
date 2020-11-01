@@ -35,13 +35,13 @@ The project aims to bring DAO’s ease of use to local and online communities th
 - TheGraph (to be done)
 
 # First milestones
-01/10: Start working
-09/10: First prototype
-21/10: Completes Apollo program
-23/10: Submission @ ETHOnline
-29/10: Win "Best Idea for Humanity's biggest challenges" (@ __Apollo__, Sponsor: __Textile__)
-29/10: Start partnership with __Matic Network__, and receives __1st grant__
-30/10: Win "Best use of Mailboxes API" for decentralized, automated "Signals" between communities (@ __ETHOnline__, Sponsor: __Textile__)
+- 01/10: Start working
+- 09/10: First prototype readyt
+- 21/10: Complete __Apollo Fellowship__
+- 23/10: Submission @ __ETHOnline__
+- 29/10: Win "Best Idea for Humanity's biggest challenges" (@ __Apollo__, Sponsor: __Textile__)
+- 29/10: Start partnership with __Matic Network__, and receives __1st grant__
+- 30/10: Win "Best use of Mailbox API" for automated "Signals" between communities (@ __ETHOnline__, Sponsor: __Textile__)
 
 # Repos:
 - [**Smart Contracts**](https://github.com/DistributedTown/distributed-town-smart-contracts)
@@ -49,9 +49,9 @@ The project aims to bring DAO’s ease of use to local and online communities th
 - [**Frontend**](https://github.com/DistributedTown/distributed-town-frontend)
 
 # Links & Contacts:
-[ETHOnline submission](https://hack.ethglobal.co/showcase/distributedtown-rec4JRV38UV4tnA7P)
-[Video Demo](https://www.youtube.com/watch?v=yh7oiAbGNck)
-[Prototype](https://distributed.town)
-[Twitter](https://twitter.com/DistributedTown)
-[Alex](https://t.me/jabyl)
+- [ETHOnline submission](https://hack.ethglobal.co/showcase/distributedtown-rec4JRV38UV4tnA7P)
+- [Video Demo](https://www.youtube.com/watch?v=yh7oiAbGNck)
+- [Prototype](https://distributed.town)
+- [Twitter](https://twitter.com/DistributedTown)
+- [Alex](https://t.me/jabyl)
 
