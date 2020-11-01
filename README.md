@@ -1,13 +1,5 @@
 # Distributed Town
-Distributed Town (DiTo) is a Network for DAOs, to let anyone create and launch self-sovereign organizations - based on an immutable, non-speculative mutual credit system, and a universal-logic based on Skills, rather than personal data.
-
-# Video Demo
-https://www.youtube.com/watch?v=yh7oiAbGNck
-
-# Repos:
-- [**Smart Contracts**](https://github.com/DistributedTown/distributed-town-smart-contracts)
-- [**Backend**](https://github.com/DistributedTown/distributed-town-backend)
-- [**Frontend**](https://github.com/DistributedTown/distributed-town-frontend)
+DistributedTown is a Network of interconnected, self-sovereign Communities. It allows anyone to join one or create their own, and it's based on DiTo, a non-speculative mutual credit system, & SkillWallet, a universal, pseudonymous ID based on skills rather than personal data.
 
 # Vision 
 Distributed Town aims to build a new financial ecosystem, supported by self-sustainable (and self-sovereign) community-hubs, with self-sovereign, pseudonymous identity management. For members to exchange skills with each other - safely, and without speculation - and collectively build the future of Collaborative Economics.
@@ -15,7 +7,7 @@ Distributed Town aims to build a new financial ecosystem, supported by self-sust
 # Core values:
 1. Self-organization and sustainability
 2. Skills as a currency. 
-3. Collective autonomy. 
+3. Collective autonomy (Inter-Independency). 
 
 The project aims to bring DAO’s ease of use to local and online communities through a one-step onboarding process, and an intuitive UX that mimics the urban environment.
 
@@ -30,15 +22,36 @@ The project aims to bring DAO’s ease of use to local and online communities th
 - Each contributor has a unique Skill-Wallet, with the credits they have earned. They will be able to use it in other communities while they relocate/travel, just scanning a QR-code (no passports, résumés or bank accounts needed).
 - Each community has a __“scarcity score”__ - based on the *“variety coefficient”* of the skillset available internally. This will automatically send a __“signal”__ to the closest community when they have excess/lack of one specific skill. 
 
-- Close-communities are indexed per *skill-proximity* based on our __DiTo SubGraph__, and they can scale together by sharing the skills more needed to realize a project or a task, following a “one-step random walk” model.
+- Close-communities will be indexed per *skill-proximity* based on a __DiTo SubGraph__, and they can scale together by sharing the skills more needed to realize a project or a task, following a “one-step random walk” model.
 
 
 # How we are building it
-- Textile ThreadDB
-- Magic Link
-- Solidity + ERC20
-- TheGraph
-- AAVE
-- USDC V.2
-- others
+- Textile ThreadDB + Mailboxes API (done)
+- Magic Link (done)
+- Solidity + ERC20 (done)
+- AAVE (done)
+- OpenGSN + USDC V.2 (done)
+- Matic Network (WIP)
+- TheGraph (to be done)
+
+# First milestones
+01/10: Start working
+09/10: First prototype
+21/10: Completes Apollo program
+23/10: Submission @ ETHOnline
+29/10: Win "Best Idea for Humanity's biggest challenges" (@ __Apollo__, Sponsor: __Textile__)
+29/10: Start partnership with __Matic Network__, and receives __1st grant__
+30/10: Win "Best use of Mailboxes API" for decentralized, automated "Signals" between communities (@ __ETHOnline__, Sponsor: __Textile__)
+
+# Repos:
+- [**Smart Contracts**](https://github.com/DistributedTown/distributed-town-smart-contracts)
+- [**Backend**](https://github.com/DistributedTown/distributed-town-backend)
+- [**Frontend**](https://github.com/DistributedTown/distributed-town-frontend)
+
+# Links & Contacts:
+[ETHOnline submission](https://hack.ethglobal.co/showcase/distributedtown-rec4JRV38UV4tnA7P)
+[Video Demo](https://www.youtube.com/watch?v=yh7oiAbGNck)
+[Prototype](https://distributed.town)
+[Twitter](https://twitter.com/DistributedTown)
+[Alex](https://t.me/jabyl)
 
