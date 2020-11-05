@@ -15,7 +15,7 @@ The project aims to bring DAO’s ease of use to local and online communities th
 ## Roles:
 1. On one side, Members of a community have more mobility and access while traveling. Our SkillWallet allows a seamless onboarding and verification in any other community, project, hackathon or event in the Network. We designed a brand-new approach to ID-verification, based on Skills and Contribution, rather than personal data. This way, in order to earn, contribute and participate, people won't need for passports, résumés or bank accounts ever again.
 
-2. On the other side, local-/online-communities can quickly attract the skills they need, proposing gigs (using a mutual credit system), and a proximity-signal based on a mathematical random walk model. Also, they can create brand-new projects from scratch, both distributing the tasks, and (through our AAVE integration) co-staking stablecoins to fund internal innovation. This spares time wasted in tiring and bureaucratic processes to attract grants and external expertise.
+2. On the other side, local-/online-communities can quickly attract the skills they need, proposing gigs (using a mutual credit system), and a proximity-signal based on a mathematical random walk model. Also, they can create brand-new projects from scratch, both to (a) distribute tasks efficiently, and (b) attracting the funds needed, by co-staking stablecoins to fund in-network innovation. This spares communities/projects the time that they would have wasted in tiring and bureaucratic processes to attract grants and external expertise.
 
 ## Specifics:
 - Each community has its own ID
@@ -28,25 +28,29 @@ The project aims to bring DAO’s ease of use to local and online communities th
 # How we are building it
 - Textile ThreadDB + Mailboxes API (done)
 - Magic Link (done)
-- Solidity + ERC20 (done)
-- AAVE (done)
-- OpenGSN + USDC V.2 (done)
+- Solidity Contracts (done)
+- RSK + RNS + Sovryn (Done)
+- OpenGSN + USDCv2 (done)
 - Matic Network (WIP)
 - TheGraph (to be done)
 
 # First milestones
-- 01/10: Start working
-- 09/10: First prototype readyt
+- 22/09: Join Post-COVID Hack and start designing the protocol
+- 01/10: Start coding
+- 09/10: First prototype ready
 - 21/10: Complete __Apollo Fellowship__
 - 23/10: Submission @ __ETHOnline__
 - 29/10: Win "Best Idea for Humanity's biggest challenges" (@ __Apollo__, Sponsor: __Textile__)
 - 29/10: Start partnership with __Matic Network__, and receives __1st grant__
 - 30/10: Win "Best use of Mailbox API" for automated "Signals" between communities (@ __ETHOnline__, Sponsor: __Textile__)
+- 07/11: Submission to Post-COVID Hack
 
 # Repos:
 - [**Smart Contracts**](https://github.com/DistributedTown/distributed-town-smart-contracts)
+- [**RSK Smart Contracts**](https://github.com/DistributedTown/distributed-town-rsk-smart-contracts)
 - [**Backend**](https://github.com/DistributedTown/distributed-town-backend)
 - [**Frontend**](https://github.com/DistributedTown/distributed-town-frontend)
+- [**RSK Frontend**](https://github.com/DistributedTown/distributed-town-rsk-frontend)
 
 # Links & Contacts:
 - [ETHOnline submission](https://hack.ethglobal.co/showcase/distributedtown-rec4JRV38UV4tnA7P)
