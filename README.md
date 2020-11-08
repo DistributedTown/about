@@ -35,7 +35,7 @@ The project aims to bring DAO’s ease of use to local and online communities th
 - TheGraph (to be done)
 
 # First milestones
-- 22/09: Join Post-COVID Hack and start designing the protocol
+- 22/09: Join __Post-COVID Hack__ and start designing the protocol
 - 01/10: Start coding
 - 09/10: First prototype ready
 - 21/10: Complete __Apollo Fellowship__
@@ -44,6 +44,8 @@ The project aims to bring DAO’s ease of use to local and online communities th
 - 29/10: Start partnership with __Matic Network__, and receives __1st grant__
 - 30/10: Win "Best use of Mailbox API" for automated "Signals" between communities (@ __ETHOnline__, Sponsor: __Textile__)
 - 07/11: Submission to Post-COVID Hack
+
+
 
 # Repos:
 - [**Smart Contracts**](https://github.com/DistributedTown/distributed-town-smart-contracts)
@@ -54,8 +56,9 @@ The project aims to bring DAO’s ease of use to local and online communities th
 
 # Links & Contacts:
 - [ETHOnline submission](https://hack.ethglobal.co/showcase/distributedtown-rec4JRV38UV4tnA7P)
-- [Video Demo](https://www.youtube.com/watch?v=yh7oiAbGNck)
-- [Prototype](https://distributed.town)
+- [Video Demo] (TBA)
+- [Prototype (Ethereum)](https://distributed.town)
+- [Prototype (RSK)](https://distributed.town:3131/)
 - [Twitter](https://twitter.com/DistributedTown)
 - [Alex](https://t.me/jabyl)
 
