@@ -56,7 +56,7 @@ The project aims to bring DAO’s ease of use to local and online communities th
 
 # Links & Contacts:
 - [ETHOnline submission](https://hack.ethglobal.co/showcase/distributedtown-rec4JRV38UV4tnA7P)
-- [Video Demo] (TBA)
+- [Latest Demo (10/11)](https://www.youtube.com/watch?v=KoCDBoyPgPU)
 - [Prototype (Ethereum)](https://distributed.town)
 - [Prototype (RSK)](https://distributed.town:3131/)
 - [Twitter](https://twitter.com/DistributedTown)
