@@ -31,33 +31,42 @@ The project aims to bring DAO’s ease of use to local and online communities th
 - Solidity Contracts (done)
 - RSK + RNS + Sovryn (Done)
 - OpenGSN + USDCv2 (done)
-- Matic Network (WIP)
-- TheGraph (to be done)
+- AAVE Liquidity Pool (done)
+- Matic Network (done)
+- xDAI Network (done)
+- IDX integration (in progress)
+- DiTo SubGraph/theGraph (to be done)
 
 # First milestones
 - 22/09: Join __Post-COVID Hack__ and start designing the protocol
 - 01/10: Start coding
-- 09/10: First prototype ready
-- 21/10: Complete __Apollo Fellowship__
+- 21/10: Complete __Apollo Fellowship__ (co-held by **Gitcoin** & **Filecoin**)
 - 23/10: Submission @ __ETHOnline__
-- 29/10: Win "Best Idea for Humanity's biggest challenges" (@ __Apollo__, Sponsor: __Textile__)
+- 29/10: Won "Best Idea for Humanity's biggest challenges" (@ __Apollo__, Sponsor: __Textile__)
 - 29/10: Start partnership with __Matic Network__, and receives __1st grant__
-- 30/10: Win "Best use of Mailbox API" for automated "Signals" between communities (@ __ETHOnline__, Sponsor: __Textile__)
-- 07/11: Submission to Post-COVID Hack
-
-
+- 30/10: Won "Best use of Mailbox API" for automated "Signals" between communities (@ __ETHOnline__, Sponsor: __Textile__)
+- 07/11: Deployed contracts on **RSK Main Net**
+- 25/11: Won Main Prize @ __Post-Covid's Hackathon__ (*"Social-Economic Inclusion"*)
+- 27/11: Won "Legal Engineering" support from __Mishcon de Reya__ (UK)
+- 01/12: Deployed contracts on **Matic Main net**
+- 07/12: Won Blockchain for Humanity (@ __b4H__) competition, _for an outstanding initiative that elevates humanity._
+- 11/12: Awarded @ __LaBitConf__, the biggest Bitcoin conference in Latin America.
+- 12/12: Deployed Contracts on **xDAI**
+- 16/12: Complete integration with **IDX** (WIP)
 
 # Repos:
-- [**Smart Contracts**](https://github.com/DistributedTown/distributed-town-smart-contracts)
+- [**Ethereum Smart Contracts**](https://github.com/DistributedTown/distributed-town-smart-contracts)
 - [**RSK Smart Contracts**](https://github.com/DistributedTown/distributed-town-rsk-smart-contracts)
+- [**xDAI Smart Contracts**](https://github.com/DistributedTown/contracts-xdai)
 - [**Backend**](https://github.com/DistributedTown/distributed-town-backend)
 - [**Frontend**](https://github.com/DistributedTown/distributed-town-frontend)
 - [**RSK Frontend**](https://github.com/DistributedTown/distributed-town-rsk-frontend)
 
 # Links & Contacts:
-- [ETHOnline submission](https://hack.ethglobal.co/showcase/distributedtown-rec4JRV38UV4tnA7P)
-- [Latest Demo (10/11)](https://www.youtube.com/watch?v=KoCDBoyPgPU)
+- [PCH Demo Day (01/12)](https://www.youtube.com/watch?v=GcTFbzCYOAU)
+- [Matic Demo Day (10/11)](https://www.youtube.com/watch?v=KoCDBoyPgPU)
 - [Prototype (Ethereum)](https://distributed.town)
+- [Prototype (Matic)](https://matic.distributed.town)
 - [Prototype (RSK)](https://distributed.town:3131/)
 - [Twitter](https://twitter.com/DistributedTown)
 - [Alex](https://t.me/jabyl)
