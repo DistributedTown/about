@@ -31,10 +31,10 @@ The project aims to bring DAO’s ease of use to local and online communities th
 - Solidity Contracts (done)
 - RSK + RNS + Sovryn (Done)
 - OpenGSN + USDCv2 (done)
-- AAVE Liquidity Pool (done)
 - Matic Network (done)
 - xDAI Network (done)
 - IDX integration (in progress)
+- AAVE Liquidity Pool (to be done)
 - DiTo SubGraph/theGraph (to be done)
 
 # First milestones
@@ -63,11 +63,13 @@ The project aims to bring DAO’s ease of use to local and online communities th
 - [**RSK Frontend**](https://github.com/DistributedTown/distributed-town-rsk-frontend)
 
 # Links & Contacts:
+- [DiTo @ GR8](https://www.youtube.com/watch?v=TjrCW0BkGmY&feature=youtu.be)
 - [PCH Demo Day (01/12)](https://www.youtube.com/watch?v=GcTFbzCYOAU)
 - [Matic Demo Day (10/11)](https://www.youtube.com/watch?v=KoCDBoyPgPU)
 - [Prototype (Ethereum)](https://distributed.town)
 - [Prototype (Matic)](https://matic.distributed.town)
 - [Prototype (RSK)](https://distributed.town:3131/)
+- [Prototype (xDAI)](https://xdai.distributed.town)
 - [Twitter](https://twitter.com/DistributedTown)
 - [Alex](https://t.me/jabyl)
 
