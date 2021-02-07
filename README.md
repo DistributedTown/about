@@ -15,7 +15,7 @@ The project aims to bring DAO’s ease of use to local and online communities th
 ## Roles:
 1. On one side, Members of a community have more mobility and access while traveling. Our SkillWallet allows a seamless onboarding and verification in any other community, project, hackathon or event in the Network. We designed a brand-new approach to ID-verification, based on Skills and Contribution, rather than personal data. This way, in order to earn, contribute and participate, people won't need for passports, résumés or bank accounts ever again.
 
-2. On the other side, local-/online-communities can quickly attract the skills they need, proposing gigs (using a mutual credit system), and a proximity-signal based on a mathematical random walk model. Also, they can create brand-new projects from scratch, both to (a) distribute tasks efficiently, and (b) attracting the funds needed, by co-staking stablecoins to fund in-network innovation. This spares communities/projects the time that they would have wasted in tiring and bureaucratic processes to attract grants and external expertise.
+2. On the other side, local-/online-communities can quickly attract the skills they need, proposing gigs (using a mutual credit system), and a proximity-signal based on a mathematical random walk model. Also, by using [**Q2T (QuadraticTreasury)**](https://github.com/q2t-fund) they can create brand-new projects from scratch, both to (a) distribute tasks efficiently, and (b) attracting the funds needed, by co-staking stablecoins to fund in-network innovation. This spares communities/projects the time that they would have wasted in tiring and bureaucratic processes to attract grants and external expertise.
 
 ## Specifics:
 - Each community has its own ID
@@ -27,14 +27,13 @@ The project aims to bring DAO’s ease of use to local and online communities th
 
 # How we are building it
 - Textile ThreadDB + Mailboxes API (done)
-- Magic Link (done)
 - Solidity Contracts (done)
 - RSK + RNS + Sovryn (Done)
 - OpenGSN + USDCv2 (done)
 - Matic Network (done)
 - xDAI Network (done)
-- IDX integration (in progress)
-- AAVE Liquidity Pool (to be done)
+- IDX integration+schema (done)
+- AAVE Credit Delegation (check [**Q2T**](https://github.com/q2t-fund))
 - DiTo SubGraph/theGraph (to be done)
 
 # First milestones
@@ -52,7 +51,8 @@ The project aims to bring DAO’s ease of use to local and online communities th
 - 07/12: Won Blockchain for Humanity (@ __b4H__) competition, _for an outstanding initiative that elevates humanity._
 - 11/12: Awarded @ __LaBitConf__, the biggest Bitcoin conference in Latin America.
 - 12/12: Deployed Contracts on **xDAI**
-- 16/12: Complete integration with **IDX** (WIP)
+- 16/12: Complete integration with **IDX**
+- 09/01: Won IDX+Textile grant (@ __Gitcoin Gr8__, sponsor: __IDX/Ceramic__)
 
 # Repos:
 - [**Ethereum Smart Contracts**](https://github.com/DistributedTown/distributed-town-smart-contracts)
