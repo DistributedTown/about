@@ -33,7 +33,7 @@ The project aims to bring DAO’s ease of use to local and online communities th
 - Matic Network (done)
 - xDAI Network (done)
 - IDX integration+schema (done)
-- AAVE Credit Delegation (check [**Q2T**](https://github.com/q2t-fund))
+- AAVE Credit Delegation (done, check [**Q2T**](https://github.com/q2t-fund/about))
 - DiTo SubGraph/theGraph (to be done)
 
 # First milestones
@@ -53,6 +53,7 @@ The project aims to bring DAO’s ease of use to local and online communities th
 - 12/12: Deployed Contracts on **xDAI**
 - 16/12: Complete integration with **IDX**
 - 09/01: Won IDX+Textile grant (@ __Gitcoin Gr8__, sponsor: __IDX/Ceramic__)
+- 11/02: Deployed [**Q2T**](https://q2t.fund) and won _AAVE_ & _Chainlink_ Awards @__MarketMake__
 
 # Repos:
 - [**Ethereum Smart Contracts**](https://github.com/DistributedTown/distributed-town-smart-contracts)
@@ -66,7 +67,7 @@ The project aims to bring DAO’s ease of use to local and online communities th
 - [DiTo @ GR8](https://www.youtube.com/watch?v=TjrCW0BkGmY&feature=youtu.be)
 - [PCH Demo Day (01/12)](https://www.youtube.com/watch?v=GcTFbzCYOAU)
 - [Matic Demo Day (10/11)](https://www.youtube.com/watch?v=KoCDBoyPgPU)
-- [Prototype (Ethereum)](https://distributed.town)
+- [Prototype (Ethereum)](https://app.distributed.town)
 - [Prototype (Matic)](https://matic.distributed.town)
 - [Prototype (RSK)](https://distributed.town:3131/)
 - [Prototype (xDAI)](https://xdai.distributed.town)
